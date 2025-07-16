@@ -66,7 +66,7 @@ var currencySymbols = map[string]string{
 	"nzd": "NZ$",  // New Zealand Dollar
 	"dkk": "kr.",  // Danish Krone
 	"idr": "Rp",   // Indonesian Rupiah
-	"ils": "₪",    // Israeli New Shekel
+	"bdt": "৳",    // Bangladeshi Taka
 	"vnd": "₫",    // Vietnamese Dong
 	"myr": "RM",   // Malaysian Ringgit
 }
