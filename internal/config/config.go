@@ -49,26 +49,10 @@ var currencySymbols = map[string]string{
 	"krw": "₩",    // Korean Won
 	"inr": "₹",    // Indian Rupee
 	"rub": "₽",    // Russian Ruble
-	"brl": "R$",   // Brazilian Real
-	"zar": "R",    // South African Rand
-	"aed": "AED",  // UAE Dirham
-	"aud": "A$",   // Australian Dollar
-	"cad": "C$",   // Canadian Dollar
-	"chf": "Fr",   // Swiss Franc
-	"hkd": "HK$",  // Hong Kong Dollar
-	"sgd": "S$",   // Singapore Dollar
 	"thb": "฿",    // Thai Baht
 	"try": "₺",    // Turkish Lira
-	"mxn": "Mex$", // Mexican Peso
 	"php": "₱",    // Philippine Peso
-	"pln": "zł",   // Polish Złoty
-	"sek": "kr",   // Swedish Krona
-	"nzd": "NZ$",  // New Zealand Dollar
-	"dkk": "kr.",  // Danish Krone
-	"idr": "Rp",   // Indonesian Rupiah
 	"bdt": "৳",    // Bangladeshi Taka
-	"vnd": "₫",    // Vietnamese Dong
-	"myr": "RM",   // Malaysian Ringgit
 }
 
 type Expense struct {
